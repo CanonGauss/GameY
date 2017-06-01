@@ -53,3 +53,4 @@ Intermediate/
 Binaries/
 *.max
 Content/GameData/Faction.uasset
+Build/
