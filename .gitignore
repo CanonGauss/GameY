@@ -51,3 +51,6 @@ Saved/Autosaves/Game/GameData/YMap_Auto3.umap
 GameY.VC.opendb
 Intermediate/
 Binaries/
+*.max
+Content/GameData/Faction.uasset
+Build/
