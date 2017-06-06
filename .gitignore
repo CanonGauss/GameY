@@ -52,6 +52,13 @@ GameY.VC.opendb
 Intermediate/
 Binaries/
 *.max
+<<<<<<< HEAD
+Content/GameData/Faction.uasset
+Build/
+*.FBX
+Content/InfinityBladeEffects/
+=======
 Content/InfinityBladeEffects/
 Build/
 *.FBX
+>>>>>>> refs/remotes/origin/master
