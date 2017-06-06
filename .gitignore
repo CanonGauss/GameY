@@ -52,5 +52,5 @@ GameY.VC.opendb
 Intermediate/
 Binaries/
 *.max
-Content/GameData/Faction.uasset
+Content/InfinityBladeEffects/
 Build/
