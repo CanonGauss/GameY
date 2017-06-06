@@ -54,3 +54,4 @@ Binaries/
 *.max
 Content/InfinityBladeEffects/
 Build/
+*.FBX
